@@ -1,5 +1,7 @@
 # CelebAMask-HQ
 
+Update: Fix some errors in "Correct-CelebAMask-HQ/face_parsing/Data_preprocessing"(g_mask.py, g_partition.py).
+
 [[Paper]](https://arxiv.org/abs/1907.11922) [[Demo]](https://www.youtube.com/watch?v=T1o38DFalWs)  
 
 ![image](https://github.com/switchablenorms/CelebAMask-HQ/blob/master/images/front.jpeg)
